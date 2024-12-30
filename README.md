@@ -12,11 +12,15 @@ Instructor:
 
 ## Exercises
 
-There will be individual, weekly exercises to be turned in each .... via ....
+There will be individual, weekly exercises to be turned in via ....
 
 ## Software
 
-Please install [R](http://www.r-project.org) and then [RStudio](http://www.rstudio.org) on your own computer (you want the "RStudio Desktop" version).  Both are free and work on all platforms.  R is the underlying data-analysis program we'll use in this course, while RStudio provides a nice front-end interface to R that makes certain repetitive steps (e.g. loading data, saving plots) very simple.
+### WebR (built-in on your browser)
+
+### Local R (downloadable software on your computer)
+
+This is optional but recommended if you want to get fancy with coding. Please install [R](http://www.r-project.org) and then [RStudio](http://www.rstudio.org) on your own computer (you want the "RStudio Desktop" version).  Both are free and work on all platforms.  R is the underlying data-analysis program we'll use in this course, while RStudio provides a nice front-end interface to R that makes certain repetitive steps (e.g. loading data, saving plots) very simple.
 
 ## Outline of topics  
 
