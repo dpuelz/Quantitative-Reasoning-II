@@ -12,7 +12,7 @@ Instructor:
 
 ## Exercises
 
-There will be individual, weekly exercises to be turned in via ....
+There will be individual, weekly exercises to be turned in via Populi.  They will be posted here and each will consist of two parts: *(i)* Reading and free response questions related to course discussion and material, and *(ii)* Computing exercises from the following [website](https://dtkaplan.github.io/QR2-computing/).
 
 ## Software
 
@@ -20,7 +20,7 @@ There will be individual, weekly exercises to be turned in via ....
 
 ### Local R (downloadable software on your computer)
 
-This is optional but recommended if you want to get fancy with coding. Please install [R](http://www.r-project.org) and then [RStudio](http://www.rstudio.org) on your own computer (you want the "RStudio Desktop" version).  Both are free and work on all platforms.  R is the underlying data-analysis program we'll use in this course, while RStudio provides a nice front-end interface to R that makes certain repetitive steps (e.g. loading data, saving plots) very simple.
+This is optional but highly recommended if you want to get fancy with coding. Please install [R](http://www.r-project.org) and then [RStudio](http://www.rstudio.org) on your own computer (you want the "RStudio Desktop" version).  Both are free and work on all platforms.  R is the underlying data-analysis program we'll use in this course, while RStudio provides a nice front-end interface to R that makes certain repetitive steps (e.g. loading data, saving plots) very simple.
 
 ## Outline of topics  
 
@@ -33,7 +33,7 @@ Code for class:
 
 Readings:
 
-### (1) Data, visualization, and trends
+### (1) Data and probability
 
 Slides:
 
