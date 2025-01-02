@@ -27,19 +27,19 @@ This is optional but highly recommended if you want to get fancy with coding. Pl
 
 ## Rough schedule
 
-|| Monday | Thursday |
+|Week| Monday | Thursday |
 |---|------| ------ |
-|Week 1: 1/6 & 1/9| Intro + Data and probability | Data and probability |
-|Week 2: 1/13 & 1/16| Data and probability | Data and probability |
-|Week 3: 1/22 & 1/23| Prediction | Prediction |
-|Week 4: 1/27 & 1/30| Regression | Regression |
-|Week 5: 2/3 & 2/6| Regression | Regression |
-|Week 6: 2/10 & 2/13| *reading week* | *reading week* |
-|Week 7: 2/19 & 2/20| Precision | Precision |
-|Week 8: 2/24 & 2/27| Accuracy, confounding, and adjustment | Accuracy, confounding, and adjustment |
-|Week 9: 3/3 & 3/6| Accuracy, confounding, and adjustment | Accuracy, confounding, and adjustment |
-|Week 10: 3/10 & 3/13| Hypothetical reasoning and the scientific method | Hypothetical reasoning and the scientific method |
-|Week 11: 3/17 & 3/20| Project presentations | Project presentations |
+|1: 1/6 & 1/9| Intro + Data and probability | Data and probability |
+|2: 1/13 & 1/16| Data and probability | Data and probability |
+|3: 1/22 & 1/23| Prediction | Prediction |
+|4: 1/27 & 1/30| Regression | Regression |
+|5: 2/3 & 2/6| Regression | Regression |
+|6: 2/10 & 2/13| *reading week* | *reading week* |
+|7: 2/19 & 2/20| Precision | Precision |
+|8: 2/24 & 2/27| Accuracy, confounding, and adjustment | Accuracy, confounding, and adjustment |
+|9: 3/3 & 3/6| Accuracy, confounding, and adjustment | Accuracy, confounding, and adjustment |
+|10: 3/10 & 3/13| Hypothetical reasoning | Hypothetical reasoning |
+|11: 3/17 & 3/20| Project presentations | Project presentations |
 
 
 ## Outline of topics  
