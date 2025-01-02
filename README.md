@@ -25,12 +25,21 @@ The computing exercises for this course are online activities with R "code block
 This is optional but highly recommended if you want to get fancy with coding. Please install [R](http://www.r-project.org) and then [RStudio](http://www.rstudio.org) on your own computer (you want the "RStudio Desktop" version).  Both are free and work on all platforms.  R is the underlying data-analysis program we'll use in this course, while RStudio provides a nice front-end interface to R that makes certain repetitive steps (e.g. loading data, saving plots) very simple.
 
 
-### Rough schedule
+## Rough schedule
 
 || Monday | Thursday |
 |---|------| ------ |
 |Week 1: 1/6 & 1/9| Intro + data and probability | data and probability |
 |Week 2: 1/13 & 1/16| Intro data and probability | data and probability |
+|Week 3: 1/22 & 1/23| Intro data and probability | data and probability |
+|Week 4: 1/27 & 1/30| Intro data and probability | data and probability |
+|Week 5: 2/3 & 2/6| Intro data and probability | data and probability |
+|Week 6: 2/10 & 2/13| *reading week* | *reading week* |
+|Week 7: 2/19 & 2/20| Intro data and probability | data and probability |
+|Week 8: 2/24 & 2/27| Intro data and probability | data and probability |
+|Week 9: 3/3 & 3/6| Intro data and probability | data and probability |
+|Week 10: 3/10 & 3/13| Intro data and probability | data and probability |
+|Week 11: 3/17 & 3/20| Intro data and probability | data and probability |
 
 
 ## Outline of topics  
