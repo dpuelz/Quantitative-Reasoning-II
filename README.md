@@ -29,8 +29,8 @@ This is optional but highly recommended if you want to get fancy with coding. Pl
 
 || Monday | Thursday |
 |---|------| ------ |
-|Week 1| Intro, data, and probability | data, and probability |
-|Week 2| Intro, data, and probability | data, and probability |
+|Week 1: 1/6 & 1/9| Intro + data and probability | data and probability |
+|Week 2: 1/13 & 1/16| Intro data and probability | data and probability |
 
 
 ## Outline of topics  
