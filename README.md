@@ -18,6 +18,8 @@ There will be individual, weekly exercises to be turned in via Populi.  They wil
 
 ### WebR (built-in on your browser)
 
+The computing exercises for this course are online activities with R "code blocks" throughout.  These code blocks run entirely in the browser, and you can edit them freely to change the output.  This browser-based version of R is therefore called "WebR."  You will interact with the code blocks and submit your interactions at the end of each computing tutorial.  Please familiarize yourself with the [computing portion](https://dtkaplan.github.io/QR2-computing/) of this course as soon as possible.
+
 ### Local R (downloadable software on your computer)
 
 This is optional but highly recommended if you want to get fancy with coding. Please install [R](http://www.r-project.org) and then [RStudio](http://www.rstudio.org) on your own computer (you want the "RStudio Desktop" version).  Both are free and work on all platforms.  R is the underlying data-analysis program we'll use in this course, while RStudio provides a nice front-end interface to R that makes certain repetitive steps (e.g. loading data, saving plots) very simple.
@@ -37,8 +39,6 @@ Readings:
 
 Slides:
 
-Exercises (in-class):
-
 Readings:
 
 Code for class:
@@ -47,8 +47,6 @@ Code for class:
 
 Slides:
 
-Exercises (in-class):
-
 Readings:
 
 Code for class:
@@ -56,8 +54,6 @@ Code for class:
 ### (3) Regression
 
 Slides:
-
-Exercises (in-class):
 
 Readings:
 
@@ -68,8 +64,6 @@ Code for class:
 
 Slides:
 
-Exercises (in-class):
-
 Readings:
 
 Code for class:
@@ -79,8 +73,6 @@ Code for class:
 
 Slides:
 
-Exercises (in-class):
-
 Readings:
 
 Code for class:
@@ -89,8 +81,6 @@ Code for class:
 ### (6) Hypothetical reasoning and the scientific method
 
 Slides:
-
-Exercises (in-class):
 
 Readings:
 
