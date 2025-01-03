@@ -51,13 +51,15 @@ Slides: [Intro](slides/)
 Code for class:
 - [Basic R functionality](code/intro.R)
 
-Readings:
+Readings: 
 
 ### (1) Data and probability
 
 Slides:
 
-Readings:
+Readings: 
+- Spiegelhalter Introduction & Ch. 1
+- Rosling Ch. 1 & 2 
 
 Code for class:
 
@@ -65,7 +67,9 @@ Code for class:
 
 Slides:
 
-Readings:
+Readings: 
+- Spiegelhalter Ch. 3 & 6
+- Rosling Ch. 4 & 5
 
 Code for class:
 
@@ -73,7 +77,9 @@ Code for class:
 
 Slides:
 
-Readings:
+Readings: 
+- Spiegelhalter Ch. 5
+- Rosling Ch. 3
 
 Code for class:
 
@@ -82,16 +88,20 @@ Code for class:
 
 Slides:
 
-Readings:
+Readings: 
+- Spiegelhalter Ch. 8 & 9, optionally, Ch. 7
+- Rosling Ch. 6 & 7
 
 Code for class:
 
 
-### (5) Accuracy, confounding, and adjustment
+### (5) Causality and confounding
 
 Slides:
 
 Readings:
+- Spiegelhalter Ch. 4
+- Rosling Ch. 8 & 9
 
 Code for class:
 
@@ -101,5 +111,16 @@ Code for class:
 Slides:
 
 Readings:
+- Spiegelhalter Ch. 11 (Bayes) + 13 & 14 (problems with hypothesis testing)
+- Rosling Ch. 10
+
 
 Code for class:
+
+
+
+
+
+
+
+
