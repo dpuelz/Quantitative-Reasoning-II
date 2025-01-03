@@ -51,8 +51,6 @@ Slides: [Intro](slides/intro.pdf)
 Code for class:
 - [Basic R functionality](code/intro.R)
 
-Readings: --
-
 ### (1) Data and probability
 
 Slides: [Data viz](slides/datavis.pdf), [Data wrangle](slides/wrangling.pdf), [Probability](slides/probability.pdf).
