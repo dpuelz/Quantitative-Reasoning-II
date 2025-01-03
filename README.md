@@ -61,7 +61,7 @@ Readings:
 - Spiegelhalter Introduction & Ch. 1 + Ch. 8 (Probability)
 - Rosling Ch. 1 & 2 
 
-Code for class:
+Code for class: [nycflights_wrangle.R](code/nycflights_wrangle.R)
 
 ### (2) Prediction
 
