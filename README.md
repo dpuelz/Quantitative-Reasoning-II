@@ -53,7 +53,7 @@ Code for class:
 
 ### (1) Data and probability
 
-Slides: [Data viz](slides/datavis.pdf), [Data wrangle](slides/wrangling.pdf), [Probability](slides/probability.pdf).
+Slides: [Data viz](slides/datavis.pdf), [Data wrangle](slides/wrangling.pdf), [Probability](slides/probability.pdf)
 
 Readings: 
 - Spiegelhalter Introduction & Ch. 1 + Ch. 8 (Probability)
