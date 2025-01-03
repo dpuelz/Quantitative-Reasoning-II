@@ -46,16 +46,16 @@ This is optional but highly recommended if you want to get fancy with coding. Pl
 
 ### (0) Introduction
 
-Slides: [Intro](slides/)
+Slides: [Intro](slides/intro.pdf)
 
 Code for class:
 - [Basic R functionality](code/intro.R)
 
-Readings: 
+Readings: --
 
 ### (1) Data and probability
 
-Slides:
+Slides: [Data viz](slides/datavis.pdf), [Data wrangle](slides/wrangling.pdf), [Probability](slides/probability.pdf).
 
 Readings: 
 - Spiegelhalter Introduction & Ch. 1 + Ch. 8 (Probability)
