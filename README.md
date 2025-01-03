@@ -33,7 +33,7 @@ This is optional but highly recommended if you want to get fancy with coding. Pl
 |2: 1/13 & 1/16| Data and probability | Data and probability |
 |3: 1/22 & 1/23| Prediction (Wednesday class) | Prediction |
 |4: 1/27 & 1/30| Regression | Regression |
-|5: 2/3 & 2/6| Regression | Regression |
+|5: 2/3 & 2/6| Regression | **midterm** |
 |6: 2/10 & 2/13| *reading week* | *reading week* |
 |7: 2/19 & 2/20| Precision (Wednesday class) | Precision |
 |8: 2/24 & 2/27| Accuracy, confounding, and adjustment | Accuracy, confounding, and adjustment |
