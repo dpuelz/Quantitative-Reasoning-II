@@ -22,7 +22,7 @@ The computing exercises for this course are online activities with R "code block
 
 ### Local R (downloadable software on your computer)
 
-This is optional but highly recommended if you want to get fancy with coding. Please install [R](http://www.r-project.org) and then [RStudio](http://www.rstudio.org) on your own computer (you want the "RStudio Desktop" version).  Both are free and work on all platforms.  R is the underlying data-analysis program we'll use in this course, while RStudio provides a nice front-end interface to R that makes certain repetitive steps (e.g. loading data, saving plots) very simple.
+You will need a local download of R to run our example code and for your final project. Please install [R](http://www.r-project.org) and then [RStudio](http://www.rstudio.org) on your own computer (you want the "RStudio Desktop" version).  Both are free and work on all platforms.  R is the underlying data-analysis program we'll use in this course, while RStudio provides a nice front-end interface to R that makes certain repetitive steps (e.g. loading data, saving plots) very simple.
 
 
 ## Rough schedule
