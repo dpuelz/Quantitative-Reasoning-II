@@ -31,11 +31,11 @@ This is optional but highly recommended if you want to get fancy with coding. Pl
 |---|------| ------ |
 |1: 1/6 & 1/9| Intro + Data and probability | Data and probability |
 |2: 1/13 & 1/16| Data and probability | Data and probability |
-|3: 1/22 & 1/23| Prediction <small>(Wednesday class)</small> | Prediction |
+|3: 1/22 & 1/23| Prediction (Wednesday class) | Prediction |
 |4: 1/27 & 1/30| Regression | Regression |
 |5: 2/3 & 2/6| Regression | Regression |
 |6: 2/10 & 2/13| *reading week* | *reading week* |
-|7: 2/19 & 2/20| Precision <small>(Wednesday class)</small> | Precision |
+|7: 2/19 & 2/20| Precision (Wednesday class) | Precision |
 |8: 2/24 & 2/27| Accuracy, confounding, and adjustment | Accuracy, confounding, and adjustment |
 |9: 3/3 & 3/6| Accuracy, confounding, and adjustment | Accuracy, confounding, and adjustment |
 |10: 3/10 & 3/13| Hypothetical reasoning | Hypothetical reasoning |
@@ -58,7 +58,7 @@ Readings:
 Slides:
 
 Readings: 
-- Spiegelhalter Introduction & Ch. 1
+- Spiegelhalter Introduction & Ch. 1 + Ch. 8 (Probability)
 - Rosling Ch. 1 & 2 
 
 Code for class:
@@ -89,7 +89,7 @@ Code for class:
 Slides:
 
 Readings: 
-- Spiegelhalter Ch. 8 & 9, optionally, Ch. 7
+- Spiegelhalter Ch. 9, optionally, Ch. 7
 - Rosling Ch. 6 & 7
 
 Code for class:
