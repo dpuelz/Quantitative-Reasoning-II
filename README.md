@@ -50,6 +50,7 @@ Slides: [Intro](slides/intro.pdf)
 
 Code for class:
 - [Basic R functionality](code/intro.R)
+- I highly recommend going through the following [R tutorials](https://github.com/dpuelz/learnR) and using this site as a reference.
 
 ### (1) Data and probability
 
