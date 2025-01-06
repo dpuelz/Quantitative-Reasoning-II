@@ -3,7 +3,7 @@
 Welcome to the Winter 2025 edition of Quantitative Reasoning II at UATX!  All course materials can be found on this GitHub page.  Please see the [course syllabus](syllabus_QR2.pdf) for links and descriptions of the readings mentioned below.
 
 Instructor:  
-- Prof. David Puelz.  Individual meetings can be booked at the following [link](https://calendly.com/dpuelz).  Office hours TBA.
+- Prof. David Puelz.  Individual meetings can be booked at the following [link](https://calendly.com/dpuelz).  Office hours 1-2p on Mondays and 12-1p on Thursdays in the Scarborough Cafe.
 
 
 ## Class meetings
@@ -60,6 +60,9 @@ Readings:
 - Spiegelhalter Introduction & Ch. 1 + Ch. 8 (Probability)
 - Rosling Ch. 1 & 2 
 
+Computing tutorial:
+- [Tutorial 1](https://dtkaplan.github.io/QR2-computing/tutorial-1.html).
+
 Code for class: 
 - [nycflights_wrangle.R](code/nycflights_wrangle.R)
 
@@ -71,6 +74,9 @@ Readings:
 - Spiegelhalter Ch. 3 & 6
 - Rosling Ch. 4 & 5
 
+Computing tutorial:
+- [Tutorial 2](https://dtkaplan.github.io/QR2-computing/tutorial-2.html).
+
 Code for class:
 
 ### (3) Regression
@@ -80,6 +86,9 @@ Slides:
 Readings: 
 - Spiegelhalter Ch. 5
 - Rosling Ch. 3
+
+Computing tutorial:
+- [Tutorial 3](https://dtkaplan.github.io/QR2-computing/tutorial-3.html).
 
 Code for class:
 
@@ -92,6 +101,9 @@ Readings:
 - Spiegelhalter Ch. 9, optionally, Ch. 7
 - Rosling Ch. 6 & 7
 
+Computing tutorial:
+- [Tutorial 4](https://dtkaplan.github.io/QR2-computing/tutorial-4.html).
+
 Code for class:
 
 
@@ -102,6 +114,9 @@ Slides:
 Readings:
 - Spiegelhalter Ch. 4
 - Rosling Ch. 8 & 9
+
+Computing tutorial:
+- [Tutorial 5](https://dtkaplan.github.io/QR2-computing/tutorial-5.html).
 
 Code for class:
 
@@ -114,6 +129,8 @@ Readings:
 - Spiegelhalter Ch. 11 (Bayes) + 13 & 14 (problems with hypothesis testing)
 - Rosling Ch. 10
 
+Computing tutorial:
+- [Tutorial 6](https://dtkaplan.github.io/QR2-computing/tutorial-6.html).
 
 Code for class:
 

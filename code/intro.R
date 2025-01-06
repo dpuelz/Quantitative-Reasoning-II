@@ -12,7 +12,7 @@ result
 print(result)
 result <- 5 - 3
 result
-
+ 
 david <- "instructor"
 david
 david <- "instructor and author"
