@@ -14,6 +14,8 @@ Instructor:
 
 There will be individual, weekly exercises to be turned in via Populi.  They will be posted here and each will consist of two parts: *(i)* Reading and free response questions related to course discussion and material, and *(ii)* Computing exercises from the following [website](https://dtkaplan.github.io/QR2-computing/).
 
+- [Week 2 exercises](exercises/HW1.pdf). Due 1/15. Data: [cars.csv](data/cars.csv).
+
 ## Software
 
 ### WebR (built-in on your browser)
