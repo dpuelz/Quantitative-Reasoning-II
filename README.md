@@ -66,7 +66,7 @@ Computing tutorial:
 - [Tutorial 1](https://dtkaplan.github.io/QR2-computing/tutorial-1.html).
 
 Code for class: 
-- [nycflights_wrangle.R](code/nycflights_wrangle.R)
+- [nycflights_wrangle.R](code/nycflights_wrangle.R), [nycflights13.csv](data/nycflights13.csv) 
 
 ### (2) Prediction
 
