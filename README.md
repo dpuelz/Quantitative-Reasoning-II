@@ -81,6 +81,7 @@ Code for class:
 
 Exercises (in-class):
 - [Draft lottery](code/draftlottery.md), [survey.csv](data/survey.csv), and [starter R Script](code/draft.R).
+- [Music festivals](code/musicfestivals.md): Which bands come to ACL?
 
 ### (2) Prediction
 
