@@ -1,4 +1,4 @@
-# Draft lottery: PRL in-class exercise
+# Draft lottery: QR2 in-class exercise
 
 This exercise is based on the following paper:
 
@@ -42,16 +42,15 @@ Briefly interpret the result (a sentence will suffice).
 Events at an early stage of life can have a long-lasting impact on a
 person’s political perspectives. In social sciences, we often measure
 people’s views as ideology, typically using a one-dimensional left-right
-scale. Estimate the sample average treatment effect on ideology. In this
+scale. Estimate the effect of getting drafted on political ideology. In this
 question, we pool all years. Briefly interpret the result in a sentence.
 
 ## Question 4
 
 Even if we assign the same treatment, respondent’s characteristics can
 change its effect. In this question, we focus on the geographical
-heterogeneity. Estimate the sample average treatment effect on ideology
-**by state** (you can still pool all years). Avoid the repetition of the
-code by defining a function. Finally, briefly interpret the result (a
+heterogeneity. Estimate the effect of getting drafted on ideology
+**by state** (you can still pool all years). Finally, briefly interpret the result (a
 sentence will suffice).
 
 ## Question 5
