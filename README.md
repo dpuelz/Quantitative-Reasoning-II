@@ -27,6 +27,16 @@ The computing exercises for this course are online activities with R "code block
 
 You will need a local download of R to run our example code and for your final project. Please install [R](https://cran.rstudio.com) and then [RStudio](https://posit.co/download/rstudio-desktop/) on your own computer (you want the "RStudio Desktop" version).  Both are free and work on all platforms.  R is the underlying data-analysis program we'll use in this course, while RStudio provides a nice front-end interface to R that makes certain repetitive steps (e.g. loading data, saving plots) very simple.
 
+## Project
+
+A couple places to look for data:
+- [Harvard Dataverse](https://dataverse.harvard.edu).  Compilation of data (and code) from research projects ranging from medicine and law to business and public policy.  Often accompanied by a peer-reviewed paper.
+- [FRED](https://fred.stlouisfed.org).  Tons of economic data from the St. Louis Fed.
+- [Johns Hopkins COVID data](https://github.com/CSSEGISandData/COVID-19).  A lot of data related to the pandemic sits here.
+- [Amazon Web Services Data Exchange](https://aws.amazon.com/marketplace/search/results?category=d5a43d97-558f-4be7-8543-cce265fe6d9d&FULFILLMENT_OPTION_TYPE=DATA_EXCHANGE&filters=FULFILLMENT_OPTION_TYPE).  Many sources ... be sure to look into the subscription and data access requirements.
+- [McCombs Business Research Center](https://guides.lib.utexas.edu/BRC).
+- [Tyler Moore's website: Cybersecurity and Crypto-related research](https://tylermoore.ens.utulsa.edu/pub.html).
+
 
 ## Rough schedule
 
@@ -67,7 +77,10 @@ Computing tutorial:
 - [Tutorial 1](https://dtkaplan.github.io/QR2-computing/tutorial-1.html).
 
 Code for class: 
-- [nycflights_wrangle.R](code/nycflights_wrangle.R), [nycflights13.csv](data/nycflights13.csv) 
+- [nycflights_wrangle.R](code/nycflights_wrangle.R), [nycflights13.csv](data/nycflights13.csv)
+
+Exercises (in-class):
+- [Draft lottery](code/draftlottery.md), [survey.csv](data/survey.csv), and [starter R Script](code/draft.R).
 
 ### (2) Prediction
 
