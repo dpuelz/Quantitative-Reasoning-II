@@ -16,6 +16,7 @@ There will be individual, weekly exercises to be turned in via Populi.  They wil
 
 - [Homework 1](exercises/HW1.pdf). Due 1/15. Data: [cars.csv](data/cars.csv).
 - [Homework 2](exercises/HW2.pdf). Due 1/22. Data: [predimed.csv](data/predimed.csv).
+- [Homework 3](exercises/HW3.pdf). Due 1/29.
 
 ## Software
 
