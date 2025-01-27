@@ -68,11 +68,12 @@ Code for class:
 
 ### (1) Data and probability
 
-Slides: [Data viz](slides/datavis.pdf), [Data wrangle](slides/wrangling.pdf), [Probability](slides/probability.pdf)
+Slides: [Data viz](slides/datavis.pdf), [Data wrangle](slides/wrangling.pdf), [Probability](slides/probability.pdf), [More probability topics](slides/probability_topics.pdf)
 
 Readings: 
 - Spiegelhalter Introduction & Ch. 1 + Ch. 8 (Probability)
-- Rosling Ch. 1 & 2 
+- Rosling Ch. 1 & 2
+- [Birth control effectiveness](readings/AIQ_excerpt_contraceptive_effectiveness.pdf)
 
 Computing tutorial:
 - [Tutorial 1](https://dtkaplan.github.io/QR2-computing/tutorial-1.html).
@@ -86,7 +87,7 @@ Exercises (in-class):
 
 ### (2) Prediction
 
-Slides:
+Slides: [Prediction](slides/prediction.pdf), [Logistic 1](slides/logistic_1.pdf), [Logistic 2](slides/logistic_2.pdf)
 
 Readings: 
 - Spiegelhalter Ch. 3 & 6
