@@ -3,7 +3,7 @@
 Welcome to the Winter 2025 edition of Quantitative Reasoning II at UATX!  All course materials can be found on this GitHub page.  Please see the [course syllabus](syllabus_QR2.pdf) for links and descriptions of the readings mentioned below.
 
 Instructor:  
-- Prof. David Puelz.  Individual meetings can be booked at the following [link](https://calendly.com/dpuelz).  Office hours 1-2p on Mondays and 12-1p on Thursdays in the Scarborough Cafe.
+- Prof. David Puelz.  Individual meetings can be booked at the following [link](https://calendly.com/dpuelz).  Office hours 1-2p on Mondays and 12-1p on Thursdays in the faculty lounge.
 
 
 ## Class meetings
