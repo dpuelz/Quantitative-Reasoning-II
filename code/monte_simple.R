@@ -1,13 +1,12 @@
 doors = 1:3
 
-
 switch_win_vec = c()
 noswitch_win_vec = c()
 
 switch_win_percentage = c()
 noswitch_win_percentage = c()
 
-for(ii in 1:200){
+for(ii in 1:20000){
   # max's pick
   door_max = 1
   
@@ -35,7 +34,7 @@ for(ii in 1:200){
   noswitch_win_percentage = c(noswitch_win_percentage,mean(noswitch_win_vec))
 }
 
-plot(switch_win_percentage,type="l",col="blue",ylim=c(0,1),xlab="number of games")
+plot(switch_win_percentage,type="l",col="blue",ylim=c(0,1),xlab="number of games",lwd=1.5)
 abline(h=2/3,col="darkgreen",lty=2)
-lines(noswitch_win_percentage,col="red")
+lines(noswitch_win_percentage,col="red",lwd=1.5)
 abline(h=1/3,col="darkred",lty=2)
