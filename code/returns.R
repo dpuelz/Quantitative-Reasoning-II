@@ -1,5 +1,6 @@
 ## quantmod return 
 library(quantmod)
+library(ggplot2)
 
 # Define stock tickers
 tickers <- c("AAPL", "WMT", "SPY", "INTC")
@@ -33,6 +34,19 @@ monthly_returns_df <- do.call(merge, monthly_returns_list)
 print(head(monthly_returns_df))
 
 data = as.data.frame(100*monthly_returns_df)
-colnames(data) = 
+colnames(data) = c("Apple","Walmart","SP500","Intel")
 
+
+#### REGRESSION MODELS ####
+
+pairs(data)
+
+fit = lm(Apple ~ Walmart,data)
+summary(fit)
+
+fit = lm(Apple ~ Walmart + SP500,data)
+summary(fit)
+
+fit = lm(Apple ~ SP500 + Intel,data)
+summary(fit)
 

@@ -98,6 +98,9 @@ Computing tutorial:
 
 Code for class:
 
+Exercises (in-class):
+- [Stock returns](code/returns.R)
+
 ### (3) Regression
 
 Slides:
