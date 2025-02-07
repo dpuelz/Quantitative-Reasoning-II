@@ -7,13 +7,15 @@ This project is a careful analysis of new data on medical school admissions from
 
 ### Data
 
-The data is from six medical schools in Texas.  It is contained in the following folder.
+The data is from six medical schools in Texas.  It is contained in the following folder:
 
 [Medical school data](../data/medical-school-data)
 
 You will be assigned one of the six schools to investigate.
 
 ### Readings
+
+We will supplement our investigation with the following readings:
 
 - [Gender Gaps in Performance: Evidence from Young Lawyers](../readings/gendergap_lawyers.pdf)
 - [Students for Fair Admissions Expert Report](../readings/SFAA.pdf)
