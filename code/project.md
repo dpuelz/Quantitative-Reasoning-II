@@ -17,6 +17,6 @@ You will be assigned one of the six schools to investigate.
 
 ### Readings
 
-- [Gender Gaps in Performance: Evidence from Young Lawyers](readings/gendergap_lawyers.pdf)
-- [Students for Fair Admissions Expert Report](readings/SFAA.pdf)
-- [Walmart Expert Report](readings/walmart.pdf) and [Appendix](readings/walmart_appendix.pdf)
+- [Gender Gaps in Performance: Evidence from Young Lawyers](../readings/gendergap_lawyers.pdf)
+- [Students for Fair Admissions Expert Report](../readings/SFAA.pdf)
+- [Walmart Expert Report](../readings/walmart.pdf) and [Appendix](../readings/walmart_appendix.pdf)
