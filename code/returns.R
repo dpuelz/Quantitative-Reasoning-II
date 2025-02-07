@@ -41,6 +41,12 @@ colnames(data) = c("Apple","Walmart","SP500","Intel")
 
 pairs(data)
 
+fit = lm(Apple ~ SP500,data)
+summary(fit)
+
+fit = lm(Walmart ~ SP500,data)
+summary(fit)
+
 fit = lm(Apple ~ Walmart,data)
 summary(fit)
 
