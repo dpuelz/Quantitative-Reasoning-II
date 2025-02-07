@@ -13,7 +13,6 @@ The data is from six medical schools in Texas.  It is contained in the following
 
 You will be assigned one of the six schools to investigate.
 
-
 ### Readings
 
 - [Gender Gaps in Performance: Evidence from Young Lawyers](../readings/gendergap_lawyers.pdf)
