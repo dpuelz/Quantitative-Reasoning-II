@@ -1,7 +1,7 @@
 
 # Discrimination in Medical School Admissions
 
-This project is a careful analysis of new data on medical school admissions from across the state of Texas.  You will be the first to see and analyze this data except for me and a couple attorneys.  Your task is to thoroughly investigate the following question:
+This project is a careful analysis of new data on medical school admissions from across the state of Texas.  Your task is to thoroughly investigate the following question:
 
 **Is there gender and race discrimination in Texas public medical schools?  If yes, to what degree?**
 
