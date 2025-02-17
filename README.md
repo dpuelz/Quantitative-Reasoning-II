@@ -19,7 +19,7 @@ There will be individual, weekly exercises to be turned in via Populi.  They wil
 - [Homework 3](exercises/HW3.pdf). Due 1/29.
 - [Homework 4](exercises/HW4.pdf). Due 2/9 (after the midterm). Data: [beautydata.csv](data/beautydata.csv).
 - [Homework 5](exercises/HW5.pdf). Due 2/14 (project work).
-- [Homework 6](exercises/HW6.pdf). Due 2/26 (project work).
+- [Homework 6](exercises/HW6.pdf). Due 2/26. 
 
 
 ## Software
