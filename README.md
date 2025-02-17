@@ -19,7 +19,7 @@ There will be individual, weekly exercises to be turned in via Populi.  They wil
 - [Homework 3](exercises/HW3.pdf). Due 1/29.
 - [Homework 4](exercises/HW4.pdf). Due 2/9 (after the midterm). Data: [beautydata.csv](data/beautydata.csv).
 - [Homework 5](exercises/HW5.pdf). Due 2/14 (project work).
-- [Homework 6](exercises/HW6.pdf). Due 2/26. 
+- [Homework 6](exercises/HW6.pdf). Due 2/26. Data: [yu2017sample.csv](data/yu2017sample.csv).
 
 
 ## Software
@@ -104,11 +104,11 @@ Computing tutorial:
 Code for class:
 
 Exercises (in-class):
-- [Stock returns](code/returns.R)
+- [Stock returns](code/returns.R) 
 
 ### (3) Regression
 
-Slides:
+Slides: A continuation of the prediction material -- [Prediction](slides/prediction.pdf), [Logistic 1](slides/logistic_1.pdf), [Logistic 2](slides/logistic_2.pdf)
 
 Readings: 
 - Spiegelhalter Ch. 5
@@ -118,6 +118,7 @@ Computing tutorial:
 - [Tutorial 3](https://dtkaplan.github.io/QR2-computing/tutorial-3.html).
 
 Code for class:
+[Stock returns revisted](code/returns.R).  What is the adjustment going on here?
 
 
 ### (4) Precision
