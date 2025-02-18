@@ -123,7 +123,7 @@ Code for class:
 
 ### (4) Precision
 
-Slides:
+Slides: Art of Statistics funnel plot discussion (to be posted) and Resampling/Bootstrapping (to be posted)
 
 Readings: 
 - Spiegelhalter Ch. 9, optionally, Ch. 7
