@@ -1,8 +1,8 @@
 ---
 title: "Art of Statistics: Figure 9-2 (page 235) Funnel plot of bowel cancer rates"
 output:
-  html_document: default
   pdf_document: default
+  html_document: default
 ---
 ***************************************************************************
 
@@ -15,7 +15,7 @@ and on his [own blog](https://pb204.blogspot.com/2011/09/im-grateful-to-david-sp
 
 library(ggplot2)
 
-bowel.data<-read.csv("09-2-bowel-cancer-data.csv",header=T)
+bowel.data<-read.csv("../data/09-2-bowel-cancer-data.csv",header=T)
 summary(bowel.data)
  attach(bowel.data)
 mean.prop=sum(n)/sum(d)
