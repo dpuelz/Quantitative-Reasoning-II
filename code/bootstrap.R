@@ -91,7 +91,7 @@ for(ii in 1:numboot){
 }
 
 # smaller sample
-load_combined_small = sample(load_combined,50)
+load_combined_small = sample(load_combined,20)
 KHOU_squared = load_combined_small$KHOU^2
 load_combined_small$KHOU_squared = KHOU_squared
 numboot = 200
