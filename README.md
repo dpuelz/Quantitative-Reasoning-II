@@ -132,7 +132,7 @@ Readings:
 Computing tutorial:
 - [Tutorial 4](https://dtkaplan.github.io/QR2-computing/tutorial-4.html).
 
-Code for class:
+Code for class: [bootstrap.R](code/bootstrap.R)
 
 
 ### (5) Causality and confounding
