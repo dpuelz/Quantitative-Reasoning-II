@@ -26,31 +26,31 @@ Each observation of the CSV data set
 `leaders.csv` contains information about an assassination
 attempt.  The variables are:
 
---------------------------------------------------------------------------------
- Name                 Description
- -------------------- ----------------------------------------------------------
- `country`            The name of the country
+
+| Name            |       Description |
+ |:---------------|:----------------------------------------------------------
+ |`country`      |      The name of the country
  
- `year`               Year of assassination
+ |`year`     |          Year of assassination
  
- `leadername`         Name of leader who was targeted
+ |`leadername`  |        Name of leader who was targeted
  
- `age`                Age of the targeted leader
+ |`age`       |         Age of the targeted leader
  
- `politybefore`       Average polity score during the 3 year period prior to the attempt
+ |`politybefore`  |      Average polity score during the 3 year period prior to the attempt
  
- `polityafter`        Average polity score during the 3 year period after the attempt
+ |`polityafter`   |     Average polity score during the 3 year period after the attempt
  
- `civilwarbefore`     1 if country is in civil war during the 3 year period prior to the attempt, or 0 
+ |`civilwarbefore`  |    1 if country is in civil war during the 3 year period prior to the attempt, or 0 
  
- `civilwarafter`      1 if country is in civil war during the 3 year period after the attempt, or 0
+ |`civilwarafter`  |    1 if country is in civil war during the 3 year period after the attempt, or 0
  
- `interwarbefore`     1 if country is in international war during the 3 year period prior to the attempt, or 0
+ | `interwarbefore`  |    1 if country is in international war during the 3 year period prior to the attempt, or 0
  
- `interwarafter`      1 if country is in international war during the 3 year period after the attempt, or 0
+ |`interwarafter`  |    1 if country is in international war during the 3 year period after the attempt, or 0
  
- `result`             Result of the assassination attempt, one of 10 categories described below
---------------------------------------------------------------------------------
+ |`result`        |     Result of the assassination attempt, one of 10 categories described below
+
 
 The `polity` variable represents the so-called *polity score*
 from the Polity Project.  The Polity Project systematically documents
