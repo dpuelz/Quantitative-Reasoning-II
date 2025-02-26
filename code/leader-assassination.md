@@ -28,7 +28,7 @@ attempt.  The variables are:
 
 
 | Name            |       Description |
- |:---------------|:----------------------------------------------------------
+ |:---------------|:----------------------------------------------------------|
  |`country`      |      The name of the country
  
  |`year`     |          Year of assassination
