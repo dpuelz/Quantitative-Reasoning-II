@@ -27,8 +27,8 @@ Each observation of the CSV data set
 attempt.  The variables are:
 
 
-| Name            |       Description |
- |:---------------|:----------------------------------------------------------|
+| Name       | Description                                                                                                            |
+|:-----------|:-----------------------------------------------------------------------------------------------------------------------|
  |`country`      |      The name of the country
  
  |`year`     |          Year of assassination
