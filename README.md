@@ -109,7 +109,7 @@ Exercises (in-class):
 
 ### (3) Regression
 
-Slides: A continuation of the prediction material -- [Prediction](slides/prediction.pdf), [Logistic 1](slides/logistic_1.pdf), [Logistic 2](slides/logistic_2.pdf)
+Slides: A continuation of the prediction material - [Prediction](slides/prediction.pdf), [Logistic 1](slides/logistic_1.pdf), [Logistic 2](slides/logistic_2.pdf)
 
 Readings: 
 - Spiegelhalter Ch. 5
@@ -134,6 +134,10 @@ Computing tutorial:
 - [Tutorial 4](https://dtkaplan.github.io/QR2-computing/tutorial-4.html).
 
 Code for class: [bootstrap.R](code/bootstrap.R)
+
+Exercises (in-class):
+- [Draft lottery](code/draftlottery.md), [survey.csv](data/survey.csv), and [starter R Script](code/draft.R).
+- [Music festivals](code/musicfestivals.md): Which bands come to ACL?
 
 
 ### (5) Causality and confounding
