@@ -136,8 +136,7 @@ Computing tutorial:
 Code for class: [bootstrap.R](code/bootstrap.R)
 
 Exercises (in-class):
-- [Draft lottery](code/draftlottery.md), [survey.csv](data/survey.csv), and [starter R Script](code/draft.R).
-- [Music festivals](code/musicfestivals.md): Which bands come to ACL?
+- [Leader assasinations](code/leader-assassination.md), [leaders.csv](data/leaders.csv)
 
 
 ### (5) Causality and confounding
