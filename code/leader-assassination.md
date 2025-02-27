@@ -69,7 +69,7 @@ number of such attempts (per year) among these countries?
 Create a new binary variable named `success` that is equal
 to 1 if a leader dies from the attack and to 0 if the leader
 survives.  Store this new variable as part of the original data
-frame.  What is the overall success rate of leader assassination?
+frame.  What is the overall success rate of leader assassination? Characterize uncertainty in this estimate.
 Does the result speak to the validity of the assumption that the
 success of assassination attempts is randomly determined?
 
@@ -80,8 +80,7 @@ Investigate whether the average polity score over 3 years prior
   to an assassination attempt differs on average between successful
   and failed attempts.  Also, examine whether there is any difference
   in the age of targeted leaders between successful and failed
-  attempts.  Briefly interpret the results in light of the validity of
-  the aforementioned assumption.
+  attempts.  Briefly interpret the results and characterize uncertainty in this estimates.
 
 ## Question 4
 
