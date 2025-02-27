@@ -51,6 +51,10 @@ and quantifies the regime types of all countries in the world from
 The `result` variable is a 10 category factor variable describing
 the result of each assassination attempt.
 
+When reading in the data, please use the following command:
+
+`leaders <- read.csv("data/leaders.csv", stringsAsFactors = TRUE)`
+
 ## Question 1
 
 How many assassination attempts are recorded in the data?  How
