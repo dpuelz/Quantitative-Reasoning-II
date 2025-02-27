@@ -101,3 +101,8 @@ Does successful leader assassination cause democratization?
   these questions by analyzing the data.  Be sure to state your
   assumptions and provide a brief interpretation of the results.
 
+
+## Question 6
+
+To what extent is a successful assasination predictable?  Fit a regression model and interpret.
+
