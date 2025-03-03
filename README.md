@@ -141,7 +141,7 @@ Exercises (in-class):
 
 ### (5) Causality and confounding
 
-Slides:
+Slides: [Causality](slides/causality.pdf)
 
 Readings:
 - Spiegelhalter Ch. 4
@@ -150,7 +150,14 @@ Readings:
 Computing tutorial:
 - [Tutorial 5](https://dtkaplan.github.io/QR2-computing/tutorial-5.html).
 
+
+Exercises (in-class):
+- [Minimum wage - uncommented code](code/causality_minwage.R) and [minwage.csv](data/minwage.csv)
+
+
 Code for class:
+- [Simple causal analysis](code/causality1.R)
+- [Randomized policing intervention](code/causality_police.R)
 
 
 ### (6) Hypothetical reasoning and the scientific method
