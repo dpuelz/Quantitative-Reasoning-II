@@ -13,6 +13,24 @@ ggplot(fruitfly, aes(x = activity, y = longevity)) +
        y = "Lifespan (days)")
 # Model
 FF.lm =lm(longevity~activity,data=fruitfly)
+summary(FF.lm)
+
+# Difference in means??
+i_iso = which(fruitfly$activity=="isolated")
+i_high = which(fruitfly$activity=="high")
+mean(fruitfly$longevity[i_high]) - mean(fruitfly$longevity[i_iso])
+
+# confidence interval??
+boot = do(10000)*{
+  fly_resample = resample(fruitfly)
+  i_iso = which(fly_resample$activity=="isolated")
+  i_high = which(fly_resample$activity=="high")
+  mean(fly_resample$longevity[i_high]) - mean(fly_resample$longevity[i_iso])
+}
+hist(boot$result,breaks=100,xlim=c(-50,50))
+abline(v=0,col="blue")
+
+
 r2 = summary(FF.lm)$r.squared; r2
 
 # Compare to shuffled longevity
