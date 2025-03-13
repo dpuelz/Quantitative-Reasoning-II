@@ -164,11 +164,12 @@ Exercises (in-class):
 Code for class:
 - [Simple causal analysis](code/causality1.R)
 - [Randomized policing intervention](code/causality_police.R)
+- [Difference-in-differences](code/DiD.R)
 
 
 ### (6) Hypothetical reasoning and the scientific method
 
-Slides:
+Slides: Continuation of [Causality](slides/causality.pdf) with a focus on Fisher's sharp null
 
 Readings:
 - Spiegelhalter Ch. 11 (Bayes) + 13 & 14 (problems with hypothesis testing)
