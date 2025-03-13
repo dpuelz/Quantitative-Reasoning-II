@@ -38,6 +38,11 @@ You will need a local download of R to run our example code and for your final p
 
 Information on the project can be found [here](code/project.md).
 
+### Deliverables: 
+
+- 10-12 minute presentation, 5 minute questions & feedback.
+- Presentation slides and the final write-up are due on Sunday, March 23.
+
 <!-- A couple places to look for data:
 - [Harvard Dataverse](https://dataverse.harvard.edu).  Compilation of data (and code) from research projects ranging from medicine and law to business and public policy.  Often accompanied by a peer-reviewed paper.
 - [FRED](https://fred.stlouisfed.org).  Tons of economic data from the St. Louis Fed.
