@@ -9,6 +9,7 @@ Instructor:
 ## Class meetings
 
 - Monday and Thursday, from 10:00a-11:15a in classroom 313.
+- HERE IS A TEST
 
 ## Exercises
 
