@@ -8,8 +8,14 @@ Instructor:
 
 ## Class meetings
 
-- Monday and Thursday, from 10:00a-11:15a in classroom 313.
-- HERE IS A TEST
+| Section | Meeting Time | Classroom | Professor |
+|---------|--------------|-----------|-----------|
+|001| | | Prof. David Puelz |
+|002| | | Prof. David Puelz |
+|003| | | Prof. David Puelz |
+|004| Monday & Tuesday, 2:00 PM - 3:15 PM | Scarbrough 326 | Prof. Dorothy Dickmann |
+
+
 
 ## Exercises
 
