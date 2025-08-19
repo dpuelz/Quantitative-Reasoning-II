@@ -4,6 +4,7 @@ Welcome to the Winter 2025 edition of Quantitative Reasoning II at UATX!  All co
 
 Instructor:  
 - Prof. David Puelz.  Individual meetings can be booked at the following [link](https://calendly.com/dpuelz).
+- Prof. Dorothy Dickmann. 
 
 
 ## Class meetings
