@@ -72,17 +72,16 @@ Details will be posted here later in the term.
 
 |Week| Monday | Thursday |
 |---|------| ------ |
-|1: 1/6 & 1/9| Intro + Data and probability | Data and probability |
-|2: 1/13 & 1/16| Data and probability | Data and probability |
-|3: 1/22 & 1/23| Prediction (Wednesday class) | Prediction |
-|4: 1/27 & 1/30| Regression | Regression |
-|5: 2/3 & 2/6| Regression | **midterm** |
-|6: 2/10 & 2/13| *reading week* | *reading week* |
-|7: 2/19 & 2/20| Precision (Wednesday class) | Precision |
-|8: 2/24 & 2/27| Accuracy, confounding, and adjustment | Accuracy, confounding, and adjustment |
-|9: 3/3 & 3/6| Accuracy, confounding, and adjustment | Accuracy, confounding, and adjustment |
-|10: 3/10 & 3/13| Hypothetical reasoning | Hypothetical reasoning |
-|11: 3/17 & 3/20| Project presentations | Project presentations |
+|1: 9/8 & 9/11| Intro + R | Intro + R |
+|2: 9/15 & 9/18| R + Data and Probability | Data and Probability |
+|3: 9/22 & 9/25| Prediction | Prediction |
+|4: 9/29 & 10/2| Prediction | Prediction |
+|5: 10/6 & 10/9| Prediction + Precision | Precision |
+|6: 10/13 & 10/16| Precision | Precision |
+|7: 10/20 & 10/23| Precision | *MIDTERM* |
+|8: 11/3 & 11/6| Causality | Causality |
+|9: 11/10 & 11/13| Causality | Causality |
+|10: 11/17 & 11/20| Project presentations | Project presentations |
 
 
 ## Outline of topics  
@@ -95,7 +94,7 @@ Code for class:
 - [Basic R functionality](code/intro.R)
 - I highly recommend going through the following [R tutorials](https://github.com/dpuelz/learnR) and using this site as a reference.
 
-### (1) Data and probability
+### (1) Data and Probability
 
 Slides: [Data viz](slides/datavis.pdf), [Data wrangle](slides/wrangling.pdf), [Probability](slides/probability.pdf), [More probability topics](slides/probability_topics.pdf)
 
