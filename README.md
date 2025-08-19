@@ -95,6 +95,10 @@ Code for class:
 - [Basic R functionality](code/intro.R)
 - I highly recommend going through the following [R tutorials](https://github.com/dpuelz/learnR) and using this site as a reference.
 
+Readings:  
+- [Introduction to RMarkdown](http://rmarkdown.rstudio.com)  
+- [RMarkdown tutorial](https://rmarkdown.rstudio.com/lesson-1.html)  
+
 ### (1) Data and Probability
 
 Slides: [Data viz](slides/datavis.pdf), [Data wrangle](slides/wrangling.pdf), [Probability](slides/probability.pdf), [More probability topics](slides/probability_topics.pdf)
