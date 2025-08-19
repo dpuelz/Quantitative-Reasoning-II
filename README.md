@@ -78,7 +78,7 @@ Details will be posted here later in the term.
 |4: 9/29 & 10/2| Prediction | Prediction |
 |5: 10/6 & 10/9| Prediction + Precision | Precision |
 |6: 10/13 & 10/16| Precision | Precision |
-|7: 10/20 & 10/23| Precision | *MIDTERM* |
+|7: 10/20 & 10/23| Precision | **MIDTERM** |
 |8: 11/3 & 11/6| Causality | Causality |
 |9: 11/10 & 11/13| Causality | Causality |
 |10: 11/17 & 11/20| Project presentations | Project presentations |
