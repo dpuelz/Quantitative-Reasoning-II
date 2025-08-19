@@ -101,11 +101,7 @@ Slides: [Data viz](slides/datavis.pdf), [Data wrangle](slides/wrangling.pdf), [P
 
 Readings: 
 - Spiegelhalter Introduction & Ch. 1 + Ch. 8 (Probability)
-- Rosling Ch. 1 & 2
 - [Birth control effectiveness](readings/AIQ_excerpt_contraceptive_effectiveness.pdf)
-
-Computing tutorial:
-- [Tutorial 1](https://dtkaplan.github.io/QR2-computing/tutorial-1.html).
 
 Code for class: 
 - [nycflights_wrangle.R](code/nycflights_wrangle.R), [nycflights13.csv](data/nycflights13.csv)
@@ -119,31 +115,12 @@ Exercises (in-class):
 Slides: [Prediction](slides/prediction.pdf), [Logistic 1](slides/logistic_1.pdf), [Logistic 2](slides/logistic_2.pdf)
 
 Readings: 
-- Spiegelhalter Ch. 3 & 6
-- Rosling Ch. 4 & 5
-
-Computing tutorial:
-- [Tutorial 2](https://dtkaplan.github.io/QR2-computing/tutorial-2.html).
+- Spiegelhalter Ch. 3, 5, 6
 
 Code for class:
 
 Exercises (in-class):
 - [Stock returns](code/returns.R) 
-
-### (3) Regression
-
-Slides: A continuation of the prediction material - [Prediction](slides/prediction.pdf), [Logistic 1](slides/logistic_1.pdf), [Logistic 2](slides/logistic_2.pdf)
-
-Readings: 
-- Spiegelhalter Ch. 5
-- Rosling Ch. 3
-
-Computing tutorial:
-- [Tutorial 3](https://dtkaplan.github.io/QR2-computing/tutorial-3.html).
-
-Code for class:
-[Stock returns revisted](code/returns.R).  What is the adjustment going on here?
-
 
 ### (4) Precision
 
@@ -151,10 +128,6 @@ Slides: [Art of Statistics funnel plot discussion](code/09-2-bowel-funnel.pdf) a
 
 Readings: 
 - Spiegelhalter Ch. 9, optionally, Ch. 7
-- Rosling Ch. 6 & 7
-
-Computing tutorial:
-- [Tutorial 4](https://dtkaplan.github.io/QR2-computing/tutorial-4.html).
 
 Code for class: [bootstrap.R](code/bootstrap.R)
 
@@ -162,17 +135,12 @@ Exercises (in-class):
 - [Leader assasinations](code/leader-assassination.md), [leaders.csv](data/leaders.csv)
 
 
-### (5) Causality and confounding
+### (5) Causality
 
 Slides: [Causality](slides/causality.pdf)
 
 Readings:
 - Spiegelhalter Ch. 4
-- Rosling Ch. 8 & 9
-
-Computing tutorial:
-- [Tutorial 5](https://dtkaplan.github.io/QR2-computing/tutorial-5.html).
-
 
 Exercises (in-class):
 - [Minimum wage - uncommented code](code/causality_minwage.R) and [minwage.csv](data/minwage.csv)
@@ -184,7 +152,7 @@ Code for class:
 - [Difference-in-differences](code/DiD.R)
 
 
-### (6) Hypothetical reasoning and the scientific method
+<!-- ### (6) Hypothetical reasoning and the scientific method
 
 Slides: Continuation of [Causality](slides/causality.pdf) with a focus on Fisher's sharp null
 
@@ -195,12 +163,4 @@ Readings:
 Computing tutorial:
 - [Tutorial 6](https://dtkaplan.github.io/QR2-computing/tutorial-6.html).
 
-Code for class:
-
-
-
-
-
-
-
-
+Code for class: -->
