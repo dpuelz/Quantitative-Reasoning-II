@@ -36,22 +36,29 @@ There will be individual, weekly exercises to be turned in via Populi.  They wil
 
 ## Software
 
-### WebR (built-in on your browser)
+<!-- ### WebR (built-in on your browser)
 
-The computing exercises for this course are online activities with R "code blocks" throughout.  These code blocks run entirely in the browser, and you can edit them freely to change the output.  This browser-based version of R is therefore called "WebR."  You will interact with the code blocks and submit your interactions at the end of each computing tutorial.  Please familiarize yourself with the [computing portion](https://dtkaplan.github.io/QR2-computing/) of this course as soon as possible.
+The computing exercises for this course are online activities with R "code blocks" throughout.  These code blocks run entirely in the browser, and you can edit them freely to change the output.  This browser-based version of R is therefore called "WebR."  You will interact with the code blocks and submit your interactions at the end of each computing tutorial.  Please familiarize yourself with the [computing portion](https://dtkaplan.github.io/QR2-computing/) of this course as soon as possible. -->
 
 ### Local R (downloadable software on your computer)
 
 You will need a local download of R to run our example code and for your final project. Please install [R](https://cran.rstudio.com) and then [RStudio](https://posit.co/download/rstudio-desktop/) on your own computer (you want the "RStudio Desktop" version).  Both are free and work on all platforms.  R is the underlying data-analysis program we'll use in this course, while RStudio provides a nice front-end interface to R that makes certain repetitive steps (e.g. loading data, saving plots) very simple.
 
+### Julius AI
+
+To be discussed.  Information is avaiable at this [site](https://julius.ai).
+
+
 ## Project
 
-Information on the project can be found [here](code/project.md).
+Details will be posted here later in the term.
+
+<!-- Information on the project can be found [here](code/project.md).
 
 ### Deliverables: 
 
 - 10-12 minute presentation, 5 minute questions & feedback.
-- Presentation slides and the final write-up are due on Sunday, March 23.
+- Presentation slides and the final write-up are due on Sunday, March 23. -->
 
 <!-- A couple places to look for data:
 - [Harvard Dataverse](https://dataverse.harvard.edu).  Compilation of data (and code) from research projects ranging from medicine and law to business and public policy.  Often accompanied by a peer-reviewed paper.
