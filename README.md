@@ -46,7 +46,7 @@ You will need a local download of R to run our example code and for your final p
 
 ### Julius AI
 
-To be discussed.  Information is avaiable at this [site](https://julius.ai).
+To be discussed.  Information is available at this [site](https://julius.ai).
 
 
 ## Project
