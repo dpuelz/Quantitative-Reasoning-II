@@ -126,7 +126,7 @@ Code for class:
 Exercises (in-class):
 - [Stock returns](code/returns.R) 
 
-### (4) Precision
+### (3) Precision
 
 Slides: [Art of Statistics funnel plot discussion](code/09-2-bowel-funnel.pdf) and [Resampling/Bootstrapping](slides/bootstrap.pdf)
 
@@ -139,7 +139,7 @@ Exercises (in-class):
 - [Leader assasinations](code/leader-assassination.md), [leaders.csv](data/leaders.csv)
 
 
-### (5) Causality
+### (4) Causality
 
 Slides: [Causality](slides/causality.pdf)
 
