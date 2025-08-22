@@ -4,7 +4,7 @@ Welcome to the Fall 2025 edition of Quantitative Reasoning II aka Introduction t
 
 Instructors:  
 - Prof. David Puelz.  Individual meetings can be booked at the following [link](https://calendly.com/dpuelz).
-- Prof. Dorothy Dickmann.  Office hours TBA.
+- Prof. Dorothy Dickmann.  Individual meetings can be booked at the following [link](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ0yy5Pa4ryQnzFgI_j7xaUDSDxWUylJ1Ep0bT06SzVDlCugRP-y2o9ztde8Hazj9ufJ8w3pbJvZ)
 
 
 ## Class meetings
