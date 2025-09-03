@@ -83,7 +83,6 @@ Details will be posted here later in the term.
 |8: 10/27 & 10/30| Causality | Causality |
 |9: 11/3 & 11/6| Causality | Causality |
 |10: 11/10 & 11/13| Project presentations | Project presentations |
-|11: Week of 11/17| No meetings |
 
 
 ## Outline of topics  
