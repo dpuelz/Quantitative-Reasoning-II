@@ -80,9 +80,10 @@ Details will be posted here later in the term.
 |5: 10/6 & 10/9| Prediction + Precision | Precision |
 |6: 10/13 & 10/16| Precision | Precision |
 |7: 10/20 & 10/23| Precision | **MIDTERM** |
-|8: 11/3 & 11/6| Causality | Causality |
-|9: 11/10 & 11/13| Causality | Causality |
-|10: 11/17 & 11/20| Project presentations | Project presentations |
+|8: 10/27 & 10/30| Causality | Causality |
+|9: 11/3 & 11/6| Causality | Causality |
+|10: 11/10 & 11/13| Project presentations | Project presentations |
+|11: Week of 11/17| No meetings |
 
 
 ## Outline of topics  
