@@ -11,9 +11,9 @@ Instructors:
 
 | Section | Meeting Time | Classroom | Professor |
 |---------|--------------|-----------|-----------|
-|001| Monday & Thursday, 10:00 AM - 11:15 AM | Scarbrough 210 | Prof. David Puelz |
-|002| Monday & Thursday, 11:30 AM - 12:45 PM | Scarbrough 313 | Prof. David Puelz |
-|003| Monday & Thursday, 2:00 PM - 3:15 PM | Scarbrough 313 | Prof. David Puelz |
+|001| Monday & Thursday, 10:00 AM - 11:15 AM | Scarbrough 311 | Prof. David Puelz |
+|002| Monday & Thursday, 11:30 AM - 12:45 PM | Scarbrough 326 | Prof. David Puelz |
+|003| Monday & Thursday, 2:00 PM - 3:15 PM | Scarbrough 326 | Prof. David Puelz |
 |004| Monday & Thursday, 2:00 PM - 3:15 PM | Scarbrough 311 | Prof. Dorothy Dickmann |
 
 
