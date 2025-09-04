@@ -45,9 +45,9 @@ The computing exercises for this course are online activities with R "code block
 
 You will need a local download of R to run our example code and for your final project. Please install [R](https://cran.rstudio.com) and then [RStudio](https://posit.co/download/rstudio-desktop/) on your own computer (you want the "RStudio Desktop" version).  Both are free and work on all platforms.  R is the underlying data-analysis program we'll use in this course, while RStudio provides a nice front-end interface to R that makes certain repetitive steps (e.g. loading data, saving plots) very simple.
 
-### Julius AI
+<!-- ### Julius AI
 
-To be discussed.  Information is available at this [site](https://julius.ai).
+To be discussed.  Information is available at this [site](https://julius.ai). -->
 
 
 ## Project
