@@ -27,9 +27,10 @@ Lucy and Eitan will hold weekly recitations at the Union on Wednesday from 7:00 
 
 There will be individual, weekly exercises to be turned in via Populi.  They will be posted here.
 
-<!--
 
-- [Homework 1](exercises/HW1.pdf). Due 1/15. Data: [cars.csv](data/cars.csv).
+
+- [Homework 1](exercises/HW1.pdf). Due 9/16. Data: [cars.csv](data/cars.csv).
+<!--
 - [Homework 2](exercises/HW2.pdf). Due 1/22. Data: [predimed.csv](data/predimed.csv).
 - [Homework 3](exercises/HW3.pdf). Due 1/29.
 - [Homework 4](exercises/HW4.pdf). Due 2/9 (after the midterm). Data: [beautydata.csv](data/beautydata.csv).
