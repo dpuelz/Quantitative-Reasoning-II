@@ -110,7 +110,7 @@ Readings:
 Slides: [Data viz](slides/datavis.pdf), [Data wrangle](slides/wrangling.pdf), [Probability](slides/probability.pdf), [More probability topics](slides/probability_topics.pdf)
 
 Readings: 
-- Spiegelhalter Introduction & Ch. 1 + Ch. 8 (Probability)
+- _Naked Statistics, Art of Statistics_ — Refer to syllabus
 - [Birth control effectiveness](readings/AIQ_excerpt_contraceptive_effectiveness.pdf)
 
 Code for class: 
@@ -125,7 +125,7 @@ Exercises (in-class):
 Slides: [Prediction](slides/prediction.pdf), [Logistic 1](slides/logistic_1.pdf), [Logistic 2](slides/logistic_2.pdf)
 
 Readings: 
-- Spiegelhalter Ch. 3, 5, 6
+- _Naked Statistics, Art of Statistics_ — Refer to syllabus
 
 Code for class:
 
@@ -137,7 +137,7 @@ Exercises (in-class):
 Slides: [Art of Statistics funnel plot discussion](code/09-2-bowel-funnel.pdf) and [Resampling/Bootstrapping](slides/bootstrap.pdf)
 
 Readings: 
-- Spiegelhalter Ch. 9, optionally, Ch. 7
+- _Naked Statistics, Art of Statistics_ — Refer to syllabus
 
 Code for class: [bootstrap.R](code/bootstrap.R)
 
@@ -150,7 +150,7 @@ Exercises (in-class):
 Slides: [Causality](slides/causality.pdf)
 
 Readings:
-- Spiegelhalter Ch. 4
+- _Naked Statistics, Art of Statistics_ — Refer to syllabus
 
 Exercises (in-class):
 - [Minimum wage - uncommented code](code/causality_minwage.R) and [minwage.csv](data/minwage.csv)
