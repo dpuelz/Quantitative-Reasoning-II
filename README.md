@@ -27,8 +27,6 @@ Lucy and Eitan will hold weekly recitations at the Union on Wednesday from 7:00 
 
 There will be individual, weekly exercises to be turned in via Populi.  They will be posted here.
 
-
-
 - [Homework 1](exercises/HW1.pdf). Due 9/17. Data: [cars.csv](data/cars.csv).
 <!--
 - [Homework 2](exercises/HW2.pdf). Due 1/22. Data: [predimed.csv](data/predimed.csv).
@@ -39,7 +37,20 @@ There will be individual, weekly exercises to be turned in via Populi.  They wil
 - [Homework 7](exercises/HW7.pdf). Due 3/5 (project work).
 - [Homework 8](exercises/HW8.pdf). Due 3/12.
 
+
 -->
+
+
+### Homework Rubric
+
+| Points | Description |
+|-------------|------------|
+1 |	All answers incorrect or inadequately addressed and missing deliverables, severly lacking clarity, write-up unprofessional
+2 | More than half of answers incorrect, severely lacking clarity, write-up unprofessional and/or missing deliverables
+3 |	The majority of answers are correct with a couple mistakes, write-up is not professionally compiled but legible
+4 |	All answers are correct and write-up is acceptable.  This is the modal grade
+5 |	All answers are correct and write-up is exceptional.  The student went above and beyond the prompts to investigate an area not explicitly requested
+
 
 ## Software
 
