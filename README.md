@@ -43,14 +43,22 @@ There will be individual, weekly exercises to be turned in via Populi.  They wil
 
 ### Homework Rubric
 
-| Points | Description |
+
+
+1 -> 	All answers incorrect or inadequately addressed and missing deliverables, severly lacking clarity, write-up unprofessional
+2 -> 	More than half of answers incorrect, severely lacking clarity, write-up unprofessional and/or missing deliverables
+3 ->	The majority of answers are correct with a couple mistakes, write-up is not professionally compiled but legible
+4 ->	All answers are correct and write-up is acceptable.  This is the modal grade
+5 ->	All answers are correct and write-up is exceptional.  The student went above and beyond the prompts to investigate an area not explicitly requested
+
+<!-- | Points | Description |
 |-------------|------------|
 1 |	All answers incorrect or inadequately addressed and missing deliverables, severly lacking clarity, write-up unprofessional
 2 | More than half of answers incorrect, severely lacking clarity, write-up unprofessional and/or missing deliverables
 3 |	The majority of answers are correct with a couple mistakes, write-up is not professionally compiled but legible
 4 |	All answers are correct and write-up is acceptable.  This is the modal grade
 5 |	All answers are correct and write-up is exceptional.  The student went above and beyond the prompts to investigate an area not explicitly requested
-
+-->
 
 ## Software
 
