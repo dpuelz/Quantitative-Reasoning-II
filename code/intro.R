@@ -1,4 +1,5 @@
 ## ------------------------------------------------------------------------
+sum(1:10)
 5 + 3
 5 - 3
 5 / 3
@@ -7,7 +8,7 @@
 sqrt(4)
 
 ## ------------------------------------------------------------------------
-result <- 5 + 3
+result = 5 + 3
 result
 print(result)
 result <- 5 - 3
@@ -46,11 +47,11 @@ world.pop[-3]
 
 # We can also convert the vector to different units using mathematical operations
 pop.million <- world.pop / 1000
-pop.million
+round(pop.million,1)
 
 # Here, we compute the population rate based off of the 1950 measurement
 pop.rate <- world.pop / world.pop[1]
-pop.rate
+plot(pop.rate)
 
 # Now, we look at the rate of increase (percent change)
 # this is just (final-initial)/initial * 100 formula in vector form
