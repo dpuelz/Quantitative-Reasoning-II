@@ -4,7 +4,7 @@ Welcome to the Fall 2025 edition of Quantitative Reasoning II aka Introduction t
 
 Instructors:  
 - Prof. David Puelz. Individual meetings can be booked at the following [link](https://calendly.com/dpuelz).  Office hours on Tuesdays from 10:00 AM - 11:00 AM in Scarbrough 215.
-- Prof. Dorothy Dickmann.  Individual meetings can be booked at the following [link](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ0yy5Pa4ryQnzFgI_j7xaUDSDxWUylJ1Ep0bT06SzVDlCugRP-y2o9ztde8Hazj9ufJ8w3pbJvZ)
+- Prof. Dorothy Dickmann.  Individual meetings can be booked at the following [link](https://calendar.app.google/U4UUE65Dzg9vJSDy7)
 
 Course Mentors:
 - Lucy Taylor: ltaylor@student.uaustin.org
