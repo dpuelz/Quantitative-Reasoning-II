@@ -1,0 +1,85 @@
+---
+title: "A Second Example"
+author: "Dorothy Dickmann"
+date: "`r Sys.Date()`"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+# Wrap R output
+options(width = 80)
+
+# Wrap R code in chunks
+knitr::opts_chunk$set(tidy = TRUE, tidy.opts = list(width.cutoff = 80))
+```
+
+## R Markdown
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+
+```{r}
+# only need to run the below command once on your machine only need to run the below command once on your machine only need to run the below command once on your machine only need to run the below command once on your machine only need to run the below command once on your machine only need to run the below command once on your machine
+# install.packages("tidyverse")
+
+# load the tidyverse package
+# tidyverse is a package of packages that 
+# are useful for data science
+# packages are collections of functions 
+# that have been written by other people
+library(tidyverse)
+
+# read in some company data
+# this is some basic financial data 
+# from companies that have been in the S&P 500 
+# at some point in time since the year 2000.
+companyData <- read.csv("../../dd_specific_files/companyData.csv")
+head(companyData)
+
+summary(companyData)
+```
+
+
+## Plots
+
+You can embed plots in your RMarkdown file. There's more than one way to create plots in R. For example, you can use the base R `plot()` function, or you can use the ggplot2 package. These are not the only ways to create plots in R, but they are two of the most common.
+
+```{r}
+plot(companyData$revtBillions, companyData$atBillions, 
+     xlab = "Revenue (billions)", 
+     ylab = "Total Assets (billions)",
+     main = "Revenue vs Total Assets")
+
+ggplot(companyData, aes(x = revtBillions, y = atBillions)) +
+  geom_point() +
+  labs(x = "Revenue (billions)", 
+       y = "Total Assets (billions)",
+       title = "Revenue vs Total Assets")
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+
+## echo = FALSE vs echo = TRUE
+
+Explaining this because the example RMarkdown file uses `echo`. 
+
+If we include `{r, echo = False}` in our R code chunk, the final knitted RMarkdown file will not include the code that was run, only the output.
+
+An example:
+```{r, echo=FALSE}
+plot(companyData$revtBillions, companyData$at, 
+     xlab = "Revenue (billions)", 
+     ylab = "Total Assets (billions)",
+     main = "Revenue vs Total Assets")
+```
+
+
+If instead we include `{r, echo = TRUE}`, the final knitted RMarkdown file will include the code that was run, as well as the output.
+```{r, echo = TRUE}
+ggplot(companyData, aes(x = revtBillions, y = atBillions)) +
+  geom_point() +
+  labs(x = "Revenue (billions)", 
+       y = "Total Assets (billions)",
+       title = "Revenue vs Total Assets")
+```
