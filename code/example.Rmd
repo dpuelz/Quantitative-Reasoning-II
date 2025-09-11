@@ -15,7 +15,8 @@ This is an R Markdown document. Markdown is a simple formatting syntax for autho
 
 When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
 
-```{r cars}
+```{r}
+cars  = read.csv("../data/cars.csv")
 summary(cars)
 ```
 
@@ -24,7 +25,7 @@ summary(cars)
 You can also embed plots, for example:
 
 ```{r pressure, echo=FALSE}
-plot(pressure)
+plot(cars$Weight,cars$HighwayMPG,pck=19,cex=0.5)
 ```
 
 \begin{equation}
