@@ -1,7 +1,3 @@
----
-layout: page
----
-
 ### Which bands come to ACL Fest?
 
 For this case study, you'll need the following data set:   
