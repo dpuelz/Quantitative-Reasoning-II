@@ -102,7 +102,7 @@ Details will be posted here later in the term.
 |---|------| ------ |
 |1: 9/8 & 9/11| Intro + R | Data and Probability |
 |2: 9/15 & 9/18|  Data and Probability | Data and Probability |
-|3: 9/22 & 9/25| Prediction | Prediction |
+|3: 9/22 & 9/25| Probability | Probability |
 |4: 9/29 & 10/2| Prediction | Prediction |
 |5: 10/6 & 10/9| Prediction + Precision | Precision |
 |6: 10/13 & 10/16| Precision | Precision |
