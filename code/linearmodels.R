@@ -57,6 +57,6 @@ xnew = seq(xmin,xmax,length.out=500)
 quadfit = lm2$coefficients[1] + lm2$coefficients[2]*xnew + lm2$coefficients[3]*xnew^2
 lines(xnew,quadfit,col=2,lwd=3)
 abline(lm1,col='blue',lwd=2)
-points(load_combined$KHOU,test,pch=16,col='green',cex=1.5)
+# points(load_combined$KHOU,test,pch=16,col='green',cex=1.5)
 
 

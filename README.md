@@ -149,6 +149,7 @@ Readings:
 - _Naked Statistics, Art of Statistics_ — Refer to syllabus
 
 Code for class:
+- Interactive notebook: [Visualizing least sqaures](https://colab.research.google.com/github/dpuelz/Quantitative-Reasoning-I/blob/main/notebooks/inclass_LS.ipynb#scrollTo=XxU8jwoU6teX)
 
 Exercises (in-class):
 - [Stock returns](code/returns.R) 

@@ -21,7 +21,7 @@ nycflights13 %>%
 by_origin_monthly = nycflights13 %>% 
   group_by(origin, month) %>% 
   summarize(count = n(),
-            mean_dep_delay = mean(dep_delay, na.rm=TRUE))
+            mean_dep_delay = mean(dep_delay, na.rm=TRUE),.groups = TRUE)
 by_origin_monthly
 
 # now let's make a bar plot
@@ -61,6 +61,10 @@ nycflights13 = nycflights13 %>%
     gain_per_hour = gain / hours
   )
 
+gain = nycflights13$dep_delay - nycflights13$arr_delay
+hours = nycflights13$air_time / 60
+gain_per_hour = gain / hours
+  
 # now which routes gained the most per hour?
 nycflights13 %>%
   group_by(dest) %>%
