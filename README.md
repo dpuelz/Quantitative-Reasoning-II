@@ -31,9 +31,9 @@ There will be individual, weekly exercises to be turned in via Populi.  They wil
 - [Homework 2](exercises/HW2.pdf). Due 9/24. Data: [predimed.csv](data/predimed.csv).
 - [Homework 3](exercises/HW3.pdf). Due 10/1. Problem 3: [ACL Fest](code/musicfestivals.md)
 - [Homework 4](exercises/HW4.pdf). Due 10/8. Data: [beautydata.csv](data/beautydata.csv).
+- [Homework 5](exercises/HW5.pdf). Due 10/15. Data: [yu2017sample.csv](data/yu2017sample.csv).
+- [Homework 6](exercises/HW6.pdf). Due 10/22 (project work).
 <!--
-- [Homework 5](exercises/HW5.pdf). Due 2/14 (project work).
-- [Homework 6](exercises/HW6.pdf). Due 2/26. Data: [yu2017sample.csv](data/yu2017sample.csv).
 - [Homework 7](exercises/HW7.pdf). Due 3/5 (project work).
 - [Homework 8](exercises/HW8.pdf). Due 3/12.
 
