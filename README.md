@@ -153,6 +153,7 @@ Code for class:
 
 Exercises (in-class):
 - [Stock returns](code/returns.R) 
+- [Leader assasinations](code/leader-assassination.md), [leaders.csv](data/leaders.csv)
 
 ### (3) Precision
 
@@ -163,10 +164,6 @@ Readings:
 
 Code for class: [bootstrap.R](code/bootstrap.R)
 
-Exercises (in-class):
-- [Leader assasinations](code/leader-assassination.md), [leaders.csv](data/leaders.csv)
-
-
 ### (4) Causality
 
 Slides: [Causality](slides/causality.pdf)
@@ -176,7 +173,6 @@ Readings:
 
 Exercises (in-class):
 - [Minimum wage - uncommented code](code/causality_minwage.R) and [minwage.csv](data/minwage.csv)
-
 
 Code for class:
 - [Simple causal analysis](code/causality1.R)
