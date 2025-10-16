@@ -56,3 +56,4 @@ summary(fit)
 fit = lm(Apple ~ SP500 + Intel,data)
 summary(fit)
 
+
