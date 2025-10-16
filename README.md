@@ -143,7 +143,7 @@ Exercises (in-class):
 
 ### (2) Prediction
 
-Slides: [Prediction](slides/prediction.pdf), [Logistic 1](slides/logistic_1.pdf), [Logistic 2](slides/logistic_2.pdf)
+Slides: [Prediction](slides/prediction.pdf), [More of Interactions](slides/interactions_supplement.pdf), [Logistic 1](slides/logistic_1.pdf), [Logistic 2](slides/logistic_2.pdf)
 
 Readings: 
 - _Naked Statistics, Art of Statistics_ — Refer to syllabus
