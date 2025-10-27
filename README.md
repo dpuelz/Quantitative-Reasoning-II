@@ -83,7 +83,7 @@ Information on the project can be found [here](code/project.md).
 
 ### Deliverables: 
 
-- 8 minute presentation, 5 minute questions & feedback.
+- 7 minute presentation, 5 minute questions & feedback.
 - Presentation slides and the final write-up are due on Monday, October 17.
 
 

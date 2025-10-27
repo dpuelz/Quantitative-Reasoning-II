@@ -25,7 +25,7 @@ max.props=max(props)
 # try funnelR package
 library(funnelR)
 
-# Numerator must be called n, denomnator d
+# Numerator must be called n, denominator d
 funnel_limits   <- fundata(input=bowel.data,benchmark=mean.prop, alpha=0.95, alpha2=0.998, method='approximate', step=100)
 
 
