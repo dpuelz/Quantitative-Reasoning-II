@@ -79,21 +79,12 @@ To be discussed.  Information is available at this [site](https://julius.ai). --
 
 ## Project
 
-Details will be posted here later in the term.
-
-<!-- Information on the project can be found [here](code/project.md).
+Information on the project can be found [here](code/project.md).
 
 ### Deliverables: 
 
-- 10-12 minute presentation, 5 minute questions & feedback.
-- Presentation slides and the final write-up are due on Sunday, March 23. -->
-
-<!-- A couple places to look for data:
-- [Harvard Dataverse](https://dataverse.harvard.edu).  Compilation of data (and code) from research projects ranging from medicine and law to business and public policy.  Often accompanied by a peer-reviewed paper.
-- [FRED](https://fred.stlouisfed.org).  Tons of economic data from the St. Louis Fed.
-- [Johns Hopkins COVID data](https://github.com/CSSEGISandData/COVID-19).  A lot of data related to the pandemic sits here.
-- [Amazon Web Services Data Exchange](https://aws.amazon.com/marketplace/search/results?category=d5a43d97-558f-4be7-8543-cce265fe6d9d&FULFILLMENT_OPTION_TYPE=DATA_EXCHANGE&filters=FULFILLMENT_OPTION_TYPE).  Many sources ... be sure to look into the subscription and data access requirements.
-- [Tyler Moore's website: Cybersecurity and Crypto-related research](https://tylermoore.ens.utulsa.edu/pub.html). -->
+- 8 minute presentation, 5 minute questions & feedback.
+- Presentation slides and the final write-up are due on Monday, October 17.
 
 
 ## Rough schedule
