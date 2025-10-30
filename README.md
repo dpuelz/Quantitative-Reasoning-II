@@ -37,7 +37,7 @@ There will be individual, weekly exercises to be turned in via Populi.  They wil
 - [Homework 8](exercises/HW8.pdf). Due 11/7 (project work).
 
 
--->
+
 
 
 #### Homework Rubric
